@@ -1,2 +1,7 @@
-# Glitchy Coming Soon Website
-Audio autoplay not working in Chrome
+# Minimalistic Coming Soon Website
+-> Countdown
+-> Super-Duper Fast ( 99 on Pagespeed ) 
+-> Single file only
+
+## Pending :
+-> Newsletter
